@@ -1,6 +1,6 @@
 # Responsive Newsletter Email Template
 
-This email template (see preview image below) is based on the Webflow Partner Newsletter design. It uses a table-based HTML structure to ensure compatibility across various email clients.
+This email template (see preview image below) uses a table-based HTML structure to ensure compatibility across various email clients.
 
 ## Features
 
@@ -70,4 +70,5 @@ This template is provided as-is under the MIT License. Feel free to use and modi
 - Consider using AI tools to help with customization and content generation
 - For complex designs, build incrementally and test each component separately
 
-![Responsive-Partner-Newsletter](https://github.com/user-attachments/assets/8d7200d9-b66d-456e-aa31-6a17051ca185)
+![preview](https://github.com/user-attachments/assets/42767b56-4fb4-40aa-84ea-875da89536f1)
+
