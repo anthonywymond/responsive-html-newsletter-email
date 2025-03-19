@@ -64,6 +64,9 @@ Before sending, test your email in multiple email clients. Services like [Litmus
 
 This template is provided as-is under the MIT License. Feel free to use and modify it for your own purposes.
 
+![Responsive-Partner-Newsletter](https://github.com/user-attachments/assets/8d7200d9-b66d-456e-aa31-6a17051ca185)
+
+
 ## Additional Notes
 
 - When working with email templates, always test thoroughly across multiple email clients
